@@ -5,4 +5,8 @@ for val in list1:
     if new_val <= val:
         pos = list1.index(val) + 1
 list1.insert(pos, new_val)
+<<<<<<< HEAD
 print(list1)
+=======
+print(list1)
+>>>>>>> lesson2
