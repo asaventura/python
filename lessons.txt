@@ -1,0 +1,4 @@
+Informatics: 100(lectures) 50(practices) 20(labs)
+Physics: 30(lectures) - 10(labs)
+Physical culture: - 30(practices) -
+Biology: 50(lectures) 40(practices) 10(labs)
